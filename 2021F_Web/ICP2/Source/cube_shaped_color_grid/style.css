@@ -1,0 +1,24 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+div {
+    width: 220px;
+    height: 220px;
+    float: left;
+}
+
+div span{
+    outline: 1px solid;
+}
+
