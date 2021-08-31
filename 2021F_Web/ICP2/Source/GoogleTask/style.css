@@ -25,7 +25,7 @@ body {
   text-decoration: none;
   color: black;
 }
-
+/* rounded profile image on navbar */
 #nav-bar img {
   border-radius: 50%;
 }
@@ -177,21 +177,21 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
-
+/*  */
 .column {
   float: left;
   width: 25%;
 }
-
+/* Initial image has an opacity value 0.8 */
 .column img {
   opacity: 0.8;
   cursor: pointer;
 }
-
+/* on hover the opacity of image changes to 1 */
 .column img:hover {
   opacity: 1;
 }
-
+/* */
 .row:after {
   content: "";
   display: table;

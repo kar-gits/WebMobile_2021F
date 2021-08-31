@@ -1,23 +1,26 @@
+/* used to wrap all the span elements as a grid
+  each row/column is divided as 70px,5px,70px,5px,70px
+  which results in 70X70 squares with 5px gaps */
 .wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 5px;
     row-gap: 5px;
 }
-
+/* used to center the contents */
 .center {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 15%;
 }
-
+/* the grid size is defined as 220x220 */
 div {
     width: 220px;
     height: 220px;
     float: left;
 }
-
+/* the outline for each cube is solid 1px */
 div span{
     outline: 1px solid;
 }
