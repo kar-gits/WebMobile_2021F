@@ -1,5 +1,5 @@
 /* used to wrap all the span elements as a grid
-  each row/column is divided as 70px,5px,70px,5px,70px
+  each row/column is divided as 70px,5px,70px,5px,70px = 220px
   which results in 70X70 squares with 5px gaps */
 .wrapper {
     display: grid;
