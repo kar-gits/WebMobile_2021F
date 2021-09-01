@@ -9,7 +9,7 @@ Student: Karthik Yanagandula
 Introduction to Web technologies HTML, CSS, JavaScript, Bootstrap, MEAN stack, React
 
 ### ICP1: Tools (GitHub and WebStorm)
-### ICP2
+### ICP2: Introduction, HTML and CSS
 ### ICP3
 ### ICP4
 ### ICP5
