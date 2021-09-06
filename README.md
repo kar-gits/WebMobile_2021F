@@ -10,7 +10,7 @@ Introduction to Web technologies HTML, CSS, JavaScript, Bootstrap, MEAN stack, R
 
 ### ICP1: Tools (GitHub and WebStorm)
 ### ICP2: Introduction, HTML and CSS
-### ICP3
+### ICP3: Bootstrap, JavaScript
 ### ICP4
 ### ICP5
 ### ICP6
