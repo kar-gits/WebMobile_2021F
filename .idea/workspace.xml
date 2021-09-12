@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43e7c381-2b6c-41e4-9b36-0ea704c73204" name="Changes" comment="" />
+    <list default="true" id="43e7c381-2b6c-41e4-9b36-0ea704c73204" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/Calculator/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/Calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/Calculator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleBootStrapMockup.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/app1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/app2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/app3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/bean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages/pythonbg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/input/PlaceHolderImages/100x100" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/input/PlaceHolderImages/1140x350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/input/PlaceHolderImages/555x300" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/input/input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +53,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2021F_Web/ICP3/Source/RWD Task/SampleImages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2021F_Web/ICP2/Documentation" />
     </key>
@@ -52,7 +77,8 @@
       <workItem from="1630099414130" duration="625000" />
       <workItem from="1630221212901" duration="28111000" />
       <workItem from="1630705096625" duration="1596000" />
-      <workItem from="1630819697938" duration="541000" />
+      <workItem from="1630819697938" duration="1140000" />
+      <workItem from="1630964496218" duration="3270000" />
     </task>
     <servers />
   </component>
